@@ -32,14 +32,7 @@ a {
 .search-btn {
   background-image: linear-gradient(to bottom, #794431, #8e4a32);
   border-color: #794431;
-
 }
-
-@media only screen and (min-width: 60em) {
-
-  .search-label {
-    text-align: right;
-  }
 
 .search-input {
   background-image: url("../images/spy-glass.svg");
@@ -48,4 +41,12 @@ a {
   background-position: .2em center;
   background-size: 1.2em auto;
   padding-left: 1.5em;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .search-label {
+    text-align: right;
+  }
+
 }
