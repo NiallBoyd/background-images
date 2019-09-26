@@ -42,10 +42,10 @@ a {
   }
 
 .search-input {
-  background-image: url("../spy-glass.svg");
+  background-image: url("../images/spy-glass.svg");
   border-color: #84452f;
   background-repeat: no-repeat;
   background-position: .2em center;
   background-size: 1.2em auto;
   padding-left: 1.5em;
-  }
+}
